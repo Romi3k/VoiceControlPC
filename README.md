@@ -15,7 +15,7 @@
 
 3. **Перейдите в каталог проекта**:
    ```bash
-   cd voice-controlled-computer-operations
+   cd VoiceControlPC
 
 5. **Установите зависимости**:
    ```bash
